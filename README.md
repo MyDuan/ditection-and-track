@@ -14,7 +14,10 @@ recognized pigs.
 
 ### Show
 - the data was download in  http://psrg.unl.edu/Projects/Details/12-Animal-Tracking
+- sample data
 ![sample data](./sample_data/sample_video.gif)
+- detection results
 ![example result of find pig](./sample_data/find_pig_example.gif)
+- detection and tracking result: 
 ![example result of find and track pig](./sample_data/find_track_pig_example.gif)
 
