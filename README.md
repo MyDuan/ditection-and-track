@@ -14,6 +14,9 @@ recognized pigs.
 
 ### Show
 - the data was download in  http://psrg.unl.edu/Projects/Details/12-Animal-Tracking
+- first gif is the sameple data
+- 2nd gif is the result of detecting multi pigs
+- 3rd gif is the result of detecting and tracking pigs.
 
 ![sample data](./sample_data/sample_video.gif)
 ![example result of find pig](./sample_data/find_pig_example.gif)
