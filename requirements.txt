@@ -2,3 +2,4 @@ opencv-python
 opencv-contrib-python
 numpy
 munkres
+tensorflow
